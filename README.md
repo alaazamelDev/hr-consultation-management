@@ -9,7 +9,7 @@
 
 ## Overview
 
-This API provides the backend and integrations for an HR and Consultation Management application used by Acme Co. It handles user management, permissions, HR functions like recruitment and attendance tracking as well as a consultation booking system. 
+This API provides the backend and integrations for an HR and Consultation Management application used by QIAM Center. It handles user management, permissions, HR functions like recruitment and attendance tracking as well as a consultation booking system. 
 
 The API is built using:
 
