@@ -32,7 +32,14 @@ The repo contains the full API code as well as documentation.
 
 ## Documentation
 
-The full API documentation including endpoints, parameters, payloads, etc can be found at: [Link to Documentation]
+The full API documentation can be found at:
+
+- [HR Module Documentation][hr-docs]
+
+- [Consultation Module Documentation][consult-docs]
+
+[hr-docs]: https://documenter.getpostman.com/view/10175953/2s93eZyrzB
+[consult-docs]: https://documenter.getpostman.com/view/27451041/2s9XxyQYSw
 
 ## Usage
 
